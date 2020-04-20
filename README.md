@@ -38,11 +38,28 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 *x = -1.22*t^2 + 1.81*t + 3.92E-03* 
 
 
-Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (Aşağıda yeni bir tablo oluşturun ve yukarıdaki tabloya 3-4 tane kendi ölçümünü ekleyiniz.) Kullandığınız Google Sheet için [buraya](link ver) link verin (Google Sheet herkese açık erişimli olsun.) 
+Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (Aşağıda yeni bir tablo oluşturun ve yukarıdaki tabloya 3-4 tane kendi ölçümünü ekleyiniz.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/1Vz4Prd22K63KSCKGS_ivzTZ5bxqKWzOZRGP3dYpRo5Y/edit#gid=0) link verin (Google Sheet herkese açık erişimli olsun.) 
 
-a) Denkleminizi **buraya yazınız**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili).  Sizce niçin a'nın değeri negatif? 
+|Frame  |Zaman(s)| Konum(m) |
+|-------|--------|----------|
+| 10(başlangıç)| 0     | 0   |
+|  14   |  4/60  | 0.2      |
+|  17   |  7/60  | 0.27     |
+|  22   |  12/60 | 0.38     |
+|  25   |  15/60 | 0.44     |
+|  28   |  18/60 | 0.49     |
+|  31   |  21/60 | 0.53     |
+|  37   |  27/60 | 0.6      |
+|  41   |  31/60 | 0.63     |
+|  46   |  36/60 | 0.66     |
+|  55   |  45/60 | 0.675    |
 
-b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
+a) Denkleminizi **buraya yazınız**.
+**Denklemim:0.0492+1.89x+ -1.43x^2**
+Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili).  Sizce niçin a'nın değeri negatif? 
+
+b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir?
+Cevap: Cisim masada ilerlediği için hava sürtünmesini ihmal etsek bile masanın sürtünmesi de olduğundaan ivme sabit olmaz, cisim yine durur.
 
 c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) 
 
