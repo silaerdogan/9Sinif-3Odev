@@ -14,16 +14,21 @@ Aşağıdaki yönerge adımlarını lütfen uygulayın.
 | Frame | Zaman(s) | Konum (m)|
 |-------|----------| ---------|
 | 7 (Başlangıç)| 0 |   0      |
+| *10    | 3/60     |   0.09   |
 | 14    | 7/60     |   0.2    |
 | 18    | 11/60    |   0.295  |
 | 23    | 16/60    |   0.4    |
 | 25    | 18/60    |   0.44   |
 | 28    | 21/60    |   0.49   |
 | 33    | 26/60    |   0.55   |
-| 38    | 31/60    |   0.61   | 
+| 38    | 31/60    |   0.61   |
+| *41    | 34/60    |   0.63   |
 | 45    | 38/60    |   0.65   |
 | 48    | 41/60    |   0.67   |
 | 53    | 46/60    |   0.675  |
+| *55    | 48/60    |   0.675  |
+
+NOT:"*" = Benim eklediklerim
 
 Yukarıdaki aldığım verilerin Google Sheet'deki çizimini [burada](https://docs.google.com/spreadsheets/d/1PFojWqpQKHUI6shl7_bbvQSjrb3AS6kleerbCbNNWVg/edit?usp=sharing) bulabilirsiniz. Bu grafiği çizmek için, grafiğin üzerine iki kere tıkladım. Açılan yan pencerede aşağıdaki değişiklikleri yaptım. 
 *   Chart Editor ------> Chart type -------> Scatter chart
